@@ -1,12 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { HomePage } from "@/app/pages/HomePage";
-import { ShopPage } from "@/app/pages/ShopPage";
-import { ProductDetailPage } from "@/app/pages/ProductDetailPage";
-import { AboutPage } from "@/app/pages/AboutPage";
-import { ContactPage } from "@/app/pages/ContactPage";
-import { TermsPage } from "@/app/pages/TermsPage";
-import { BlogListingPage } from "@/app/pages/BlogListingPage";
-import { BlogPostPage } from "@/app/pages/BlogPostPage";
+import { HomePage } from "./pages/HomePage";
+import { ShopPage } from "./pages/ShopPage";
+import { ProductDetailPage } from "./pages/ProductDetailPage";
+import { AboutPage } from "./pages/AboutPage";
+import { ContactPage } from "./pages/ContactPage";
+import { TermsPage } from "./pages/TermsPage";
+import { BlogListingPage } from "./pages/BlogListingPage";
+import { BlogPostPage } from "./pages/BlogPostPage";
 
 /**
  * IMAMAK E-COMMERCE WEBSITE

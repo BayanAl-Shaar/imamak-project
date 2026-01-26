@@ -41,9 +41,9 @@ export function Header({ cartCount = 0 }: HeaderProps) {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
           <img
-          src="https://res.cloudinary.com/dpiip2agt/image/upload/v1768385673/logo_enclho.jpg"
+          src="https://res.cloudinary.com/dpiip2agt/image/upload/v1769343134/white-new-logo_q8y9ie.png"
           alt="IMAMAK Logo"
-          className="h-15 w-auto object-contain"
+          className="h-20 w-auto object-contain"
           />
           </Link>
 

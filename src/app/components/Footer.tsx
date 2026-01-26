@@ -13,7 +13,7 @@ export function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 bg-white rounded flex items-center justify-center">
                 <img
-      src="https://res.cloudinary.com/dpiip2agt/image/upload/v1768385673/logo_enclho.jpg"
+      src="https://res.cloudinary.com/dpiip2agt/image/upload/v1769343005/new_-ogo_wwxhub.png"
       alt="IMAMAK Logo"
       className="h-8 w-auto object-contain"
     />
