@@ -450,7 +450,7 @@ export function HomePage() {
           </div>
 
           <Tabs defaultValue="elevator" className="w-full">
-            <TabsList className="grid w-full grid-cols-2 md:grid-cols-4 mb-8 bg-white shadow-sm border border-border rounded-xl p-1">
+            <TabsList className="grid w-full grid-cols-2 md:grid-cols-4 gap-3 md:gap-1 mb-8 bg-white shadow-sm border border-border rounded-xl p-1">
               <TabsTrigger
                 value="elevator"
                 className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground data-[state=active]:shadow-sm hover:bg-primary/10 hover:text-primary transition-all duration-200 cursor-pointer font-medium text-sm px-4 py-2 rounded-lg"
