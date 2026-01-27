@@ -7,6 +7,7 @@ import { ContactPage } from "./pages/ContactPage";
 import { TermsPage } from "./pages/TermsPage";
 import { BlogListingPage } from "./pages/BlogListingPage";
 import { BlogPostPage } from "./pages/BlogPostPage";
+import { Watermark } from "./components/Watermark";
 
 /**
  * IMAMAK E-COMMERCE WEBSITE
@@ -26,6 +27,7 @@ import { BlogPostPage } from "./pages/BlogPostPage";
 function App() {
   return (
     <BrowserRouter>
+      <Watermark />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/shop" element={<ShopPage />} />
