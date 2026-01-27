@@ -13,8 +13,16 @@ interface ProductCardProps {
 
 export function ProductCard({ id, name, image, price, category, specs, inStock = true }: ProductCardProps) {
   const navigate = useNavigate();
+
+  const handleCardClick = () => {
+    navigate(`/product/${id}`);
+  };
+
   return (
-    <div className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-lg transition-shadow group">
+    <div
+      onClick={handleCardClick}
+      className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-lg transition-shadow group cursor-pointer"
+    >
       {/* Image Container */}
       <div className="relative aspect-square bg-muted overflow-hidden">
         <img

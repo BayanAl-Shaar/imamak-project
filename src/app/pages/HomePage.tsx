@@ -3,6 +3,7 @@ import { Footer } from '../components/Footer';
 import { ProductCard } from '../components/ProductCard';
 import { CategoryCard } from '../components/CategoryCard';
 import { Button } from '../components/Button';
+import { InfoMarquee } from '../components/InfoMarquee';
 import { Shield, Truck, Headphones, Award, Clock, Package } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs';
@@ -215,17 +216,7 @@ export function HomePage() {
     <div className="min-h-screen bg-background relative">
       <Header cartCount={3} />
 
-      {/* Global Shipping Info Strip */}
-      <section className="py-3 bg-yellow-100/80 border-b border-yellow-200/50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-center gap-3 text-center md:justify-start md:text-left">
-            <Truck className="w-6 h-6 text-yellow-700 flex-shrink-0" />
-            <p className="text-base md:text-lg text-yellow-900 font-semibold">
-              We ship our products worldwide, ensuring reliable delivery wherever your business operates.
-            </p>
-          </div>
-        </div>
-      </section>
+      <InfoMarquee />
 
       {/* Hero Section */}
       <section className="relative bg-primary text-primary-foreground overflow-hidden">
@@ -334,7 +325,7 @@ export function HomePage() {
       </section>
 
       {/* Compressor Brands Section - Added to display compressor brand logos in a responsive grid */}
-      <section className="py-16 bg-muted/30">
+      {/*<section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -360,10 +351,10 @@ export function HomePage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* Elevator Brands Section - Added to display elevator brand logos in a responsive grid */}
-      <section className="py-16 bg-muted/30">
+      {/*<section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -389,10 +380,10 @@ export function HomePage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* Reducer Brands Section - Added to display reducer brand logos in a responsive grid */}
-      <section className="py-16 bg-muted/30">
+      {/*<section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -418,10 +409,10 @@ export function HomePage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* Electric Motors Brands Section - Added to display electric motor brand logos in a responsive grid */}
-      <section className="py-16 bg-muted/30">
+      {/*<section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -447,7 +438,7 @@ export function HomePage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* Our Brands Section with Tabs */}
       <section className="py-16 bg-muted/30">

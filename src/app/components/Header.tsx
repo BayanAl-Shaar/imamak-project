@@ -41,9 +41,9 @@ export function Header({ cartCount = 0 }: HeaderProps) {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
           <img
-          src="https://res.cloudinary.com/dpiip2agt/image/upload/v1769343134/white-new-logo_q8y9ie.png"
+          src="https://res.cloudinary.com/dpiip2agt/image/upload/v1769516418/2klogo_bsfpji.png"
           alt="IMAMAK Logo"
-          className="h-20 w-auto object-contain"
+          className="h-25 w-auto object-contain"
           />
           </Link>
 
@@ -81,7 +81,7 @@ export function Header({ cartCount = 0 }: HeaderProps) {
           <ul className="flex flex-col md:flex-row md:items-center gap-2 md:gap-6">
             <li>
               <Link to="/" className="block py-2 md:py-0 text-foreground hover:text-primary font-medium transition-colors">
-                IMAMAK
+                Imamak
               </Link>
             </li>
             <li>
