@@ -215,6 +215,18 @@ export function HomePage() {
     <div className="min-h-screen bg-background relative">
       <Header cartCount={3} />
 
+      {/* Global Shipping Info Strip */}
+      <section className="py-3 bg-yellow-100/80 border-b border-yellow-200/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-center gap-3 text-center md:justify-start md:text-left">
+            <Truck className="w-6 h-6 text-yellow-700 flex-shrink-0" />
+            <p className="text-base md:text-lg text-yellow-900 font-semibold">
+              We ship our products worldwide, ensuring reliable delivery wherever your business operates.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Hero Section */}
       <section className="relative bg-primary text-primary-foreground overflow-hidden">
         <div className="absolute inset-0">
