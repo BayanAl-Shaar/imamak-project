@@ -32,9 +32,9 @@ export const products: Product[] = [
     rating: 4.8,
     reviews: 42,
     description: 'High-efficiency three-phase electric motor designed for industrial applications. Features robust construction and reliable performance for continuous operation.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9_jgditw.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285089596_tigjgk.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9_jgditw.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285089596_tigjgk.png',
     ],
     specs: 'Durable motors for general industrial use.',
     specifications: [
@@ -75,9 +75,9 @@ export const products: Product[] = [
     rating: 4.7,
     reviews: 38,
     description: 'Premium quality three-phase electric motor from ABB, engineered for demanding industrial environments with superior performance and reliability.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371822/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA_u8h3ip.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587729/creation_2285086653_qrdrz9.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371822/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA_u8h3ip.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587729/creation_2285086653_qrdrz9.png',
     ],
     specs: 'Integrated braking for safe, precise control.',
     specifications: [
@@ -118,9 +118,9 @@ export const products: Product[] = [
     rating: 4.9,
     reviews: 55,
     description: 'Heavy-duty three-phase electric motor designed for the most demanding industrial applications. Built to last with superior materials and engineering.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A93_gnzczw.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285094137_wzw0h8.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A93_gnzczw.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285094137_wzw0h8.png',
     ],
     specs: 'Ideal for light-duty and single-phase systems.',
     specifications: [
@@ -153,19 +153,19 @@ export const products: Product[] = [
   // Electric Motors with Brakes
   {
     id: '4',
-    name: 'Siemens Brake Motor 1.5kW',
+    name: 'Horizontal Split Case Centrifugal Pump',
     sku: 'SEM-BRK-1.5KW-001',
     brand: 'Siemens',
-    category: 'Electric Motors with Brakes',
+    category: 'Industrial Machinery',
     price: 685.00,
     inStock: true,
     stockCount: 15,
     rating: 4.6,
     reviews: 28,
     description: 'Three-phase electric motor with integrated electromagnetic brake for applications requiring precise stopping and holding capabilities.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A92_iul2pg.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285096055_viede2.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A92_iul2pg.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285096055_viede2.png',
     ],
     specs: 'Smooth performance for specialized applications.',
     specifications: [
@@ -196,19 +196,19 @@ export const products: Product[] = [
   },
   {
     id: '5',
-    name: 'ABB Brake Motor 3kW',
+    name: 'Two-Stage Liquid Ring Vacuum Pump',
     sku: 'ABB-BRK-3KW-001',
     brand: 'ABB',
-    category: 'Electric Motors with Brakes',
+    category: 'Industrial Vacuum Equipment',
     price: 895.00,
     inStock: true,
     stockCount: 10,
     rating: 4.8,
     reviews: 35,
     description: 'High-performance three-phase motor with advanced braking system for critical applications requiring immediate and reliable stopping.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371397/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A8%D9%85%D9%83%D8%A7%D8%A8%D8%AD2_u94toi.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587731/creation_2285077451_sburjb.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371397/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A8%D9%85%D9%83%D8%A7%D8%A8%D8%AD2_u94toi.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587731/creation_2285077451_sburjb.png',
     ],
     specs: 'Efficient power transmission at right angles.',
     specifications: [
@@ -241,19 +241,19 @@ export const products: Product[] = [
   // Single-Phase Motors
   {
     id: '6',
-    name: 'Single-Phase Motor 1.1kW 230V',
+    name: 'Horizontal Split Case Centrifugal Pump',
     sku: 'SPM-1.1KW-001',
     brand: 'Various',
-    category: 'Single-Phase Motors',
+    category: 'Power Transmission',
     price: 245.00,
     inStock: true,
     stockCount: 30,
     rating: 4.5,
     reviews: 22,
     description: 'Reliable single-phase electric motor suitable for residential and light commercial applications where three-phase power is not available.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371823/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA3_xnjw4w.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587743/creation_2285080446_ru0zrm.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371823/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA3_xnjw4w.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587743/creation_2285080446_ru0zrm.png',
     ],
     specs: 'Precision reducers for high torque applications.',
     specifications: [
@@ -287,16 +287,16 @@ export const products: Product[] = [
     name: 'Single-Phase Motor 2.2kW 230V',
     sku: 'SPM-2.2KW-001',
     brand: 'Various',
-    category: 'Single-Phase Motors',
+    category: 'Industrial Air Compression Systems',
     price: 385.00,
     inStock: true,
     stockCount: 20,
     rating: 4.6,
     reviews: 31,
-    description: 'Heavy-duty single-phase motor designed for applications requiring higher power output in single-phase electrical systems.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371824/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA17_z1foi3.webp',
+    description: 'Rotary Screw Compressor (K-MAX) and Reciprocating Piston Compressor',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587703/creation_2285075560_ornpwo.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371824/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA17_z1foi3.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587703/creation_2285075560_ornpwo.png',
     ],
     specs: 'High efficiency and quiet operation.',
     specifications: [
@@ -329,19 +329,19 @@ export const products: Product[] = [
   // Two-Phase Motors
   {
     id: '8',
-    name: 'Two-Phase Motor 1.5kW',
+    name: 'Helical Gear Reducers',
     sku: 'TPM-1.5KW-001',
     brand: 'Various',
-    category: 'Two-Phase Motors',
+    category: 'Material Handling',
     price: 425.00,
     inStock: true,
     stockCount: 8,
     rating: 4.4,
     reviews: 15,
     description: 'Specialized two-phase electric motor designed for specific industrial applications requiring precise speed control and torque characteristics.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371822/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA_u8h3ip.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285091177_zidpq2.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371822/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA_u8h3ip.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285091177_zidpq2.png',
     ],
     specs: 'Compact design with high reduction ratios.',
     specifications: [
@@ -382,10 +382,10 @@ export const products: Product[] = [
     rating: 4.5,
     reviews: 12,
     description: 'Advanced two-phase motor engineered for high-precision applications where standard three-phase motors are not suitable.',
-    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A93_gnzczw.webp',
+    image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285094137_wzw0h8.png',
     images: [
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A93_gnzczw.webp',
-      'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A93_gnzczw.webp',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285094137_wzw0h8.png',
+      'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285094137_wzw0h8.png',
     ],
     specs: '3kW, Two-Phase, 1450 RPM, 400V',
     specifications: [

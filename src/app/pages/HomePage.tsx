@@ -14,7 +14,7 @@ export function HomePage() {
     {
       id: '1',
       name: 'Electric Motors with Brakes',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371398/%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9_jgditw.webp',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285089596_tigjgk.png',
       price: 24.50,
       category: 'Bearings',
       specs: 'Durable motors for general industrial use.',
@@ -23,7 +23,7 @@ export function HomePage() {
     {
       id: '2',
       name: 'Horizontal Split Case Centrifugal Pump',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769409774/WhatsApp_Image_2026-01-14_at_13.07.20_1_mkbepr.jpg',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285096055_viede2.png',
       price: 185.00,
       category: 'Industrial Machinery',
       specs: 'A heavy-duty pumping system consisting of a large AC electric motor coupled to a centrifugal pump',
@@ -32,7 +32,7 @@ export function HomePage() {
     {
       id: '3',
       name: 'Two-Stage Liquid Ring Vacuum Pump',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769410113/Gemini_Generated_Image_yhoh69yhoh69yhoh_utfdes.png',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587731/creation_2285077451_sburjb.png',
       price: 425.00,
       category: 'Industrial Vacuum Equipment',
       specs: 'This is a robust, two-stage liquid ring vacuum pump used for extracting gases or creating a vacuum in industrial processes.',
@@ -41,7 +41,7 @@ export function HomePage() {
     {
       id: '4',
       name: 'Horizontal Split Case Centrifugal Pump',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769409781/WhatsApp_Image_2026-01-14_at_13.07.21_1_binkss.jpg',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587743/creation_2285080446_ru0zrm.png',
       price: 89.99,
       category: 'Power Transmission',
       specs: 'It consists of a centrifugal pump coupled to a large AC electric motor',
@@ -50,7 +50,7 @@ export function HomePage() {
     {
       id: '5',
       name: 'Rotary Screw Compressor (K-MAX) and Reciprocating Piston Compressor',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769410452/Gemini_Generated_Image_7uk5a7uk5a7uk5a7_nnqqqi.png',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587703/creation_2285075560_ornpwo.png',
       price: 145.50,
       category: 'Industrial Air Compression Systems',
       specs: 'A high-efficiency unit designed for continuous 24/7 industrial use; it features a variable speed permanent magnet motor and an integrated electronic controller.',
@@ -58,17 +58,17 @@ export function HomePage() {
     },
     {
       id: '6',
-      name: 'Rotary Airlock Valve (also known as a Rotary Feeder or Star Feeder)',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769409784/WhatsApp_Image_2026-01-14_at_13.07.22_cgjczi.jpg',
+      name: 'ABB High Voltage Induction Motor',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769588367/freepik__background__49559_zkgemy.png',
       price: 320.00,
-      category: 'Pneumatic Conveying Equipment',
-      specs: 'This is a Makilus M Series Rotary Airlock used for the controlled discharge of bulk solids like flour, grain, or powders from a hopper or silo.',
+      category: 'Rotating Electrical Machines',
+      specs: 'High-power industrial AC induction motor designed for heavy-duty applications like pumping, compression, or ventilation in demanding environments such as oil & gas or power generation.',
       inStock: false,
     },
     {
       id: '7',
       name: 'Helical Gear Reducers',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371824/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA17_z1foi3.webp',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587744/creation_2285091177_zidpq2.png',
       price: 890.00,
       category: 'Material Handling',
       specs: 'High efficiency and quiet operation.',
@@ -77,7 +77,7 @@ export function HomePage() {
     {
       id: '8',
       name: 'Worm Gear Reducers',
-      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1768371824/%D9%85%D8%AE%D9%81%D8%B6%D8%A7%D8%AA7_quzqdq.webp',
+      image: 'https://res.cloudinary.com/dpiip2agt/image/upload/v1769587732/creation_2285083505_ne3pgf.png',
       price: 156.00,
       category: 'Mechanical Parts',
       specs: 'Compact design with high reduction ratios.',
