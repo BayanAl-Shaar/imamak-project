@@ -24,7 +24,7 @@ export function ProductCard({ id, name, image, price, category, specs, inStock =
       className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-lg transition-shadow group cursor-pointer"
     >
       {/* Image Container */}
-      <div className="relative aspect-square bg-muted overflow-hidden">
+      <div className="relative aspect-square bg-white overflow-hidden">
         <img
           src={image}
           alt={name}
